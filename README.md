@@ -12,4 +12,10 @@ Upon a secondary analysis, it becomes apparent that the states situated within t
 <img width="589" alt="profit by state" src="https://github.com/Miracleefe/Analyzing-Global-Store-/assets/151831246/1f0cd871-dfb3-4466-b9d2-7243209d25ce">
 
 
+Upon closer scrutiny, it is discernible that the sales and profit margins have experienced notable augmentation in conjunction with the "standard class" shipping option. This suggests that the utilization of the standard class for shipping has played a pivotal role in fostering increased sales and profitability, thereby warranting a more in-depth exploration of the underlying factors contributing to this observed trend.
+
+<img width="585" alt="shipping cost" src="https://github.com/Miracleefe/Analyzing-Global-Store-/assets/151831246/47ec5707-a131-4375-b6f4-02b5cc85c441">
+
+
+
 
